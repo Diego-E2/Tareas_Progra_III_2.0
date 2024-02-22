@@ -1,5 +1,10 @@
 package Lista;
 
+<<<<<<< HEAD
+=======
+//Cambiooooooooooooo nuevo
+
+>>>>>>> 3d67ad400aa9bf52ef4204256fb9385eb2fd52ba
 public class ListaSimplementeEnlazada {
 
 	Nodo cabeza; //Referencia al primer nodo de la lista
