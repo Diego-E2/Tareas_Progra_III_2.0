@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Listas_Simple {
+module ListaSimplementeEnlazada {
 }
